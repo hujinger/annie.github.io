@@ -1,0 +1,9 @@
+/* color for headings*/
+h1,h2{color:#d4acad;}
+/*ad paragraphs*/
+p{font-family: 'Times New Roman', Times, serif;font-size: large;}
+p:first-letter{color: black;font-size: xx-large;}
+
+a:link,a:visited,a:hover,a:active{
+    color:white ;
+    text-decoration: none;
